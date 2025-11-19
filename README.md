@@ -77,10 +77,14 @@ ylabel('Amplitude');
 title('Inverse FFT OF X(K)');
 
 ```
-# OUTPUT: 
+# OUTPUT:
+
 USING DFT:
+
 <img width="732" height="603" alt="image" src="https://github.com/user-attachments/assets/ac3dbeb1-8f7c-429d-b9cb-96afb8e66be5" />
+
 USING FFT:
+
 <img width="725" height="598" alt="image" src="https://github.com/user-attachments/assets/b024b644-2efe-46ca-b789-945ef81d0efd" />
 
 
